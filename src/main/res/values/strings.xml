@@ -1,0 +1,62 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">ChiosGuideApp</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_services">Services</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_beaches">Beaches</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+    <string name="sights1">Mastic Museum</string>
+    <string name="sights2">Olumpon Cave</string>
+    <string name="sights3">Maritime Museum</string>
+    <string name="sights4">Castle</string>
+    <string name="sights5">Church of Panagia Krina</string>
+    <string name="sights6">Monastery of Nea Moni</string>
+    <string name="service1">Sueno Cafe Bar</string>
+    <string name="service2">Escobar Cafe Bar</string>
+    <string name="service3">Plan B Bar</string>
+    <string name="service4">Pastards Italian Food</string>
+    <string name="service5">La Bussola Restaurant</string>
+    <string name="service6">La Notte Bistro</string>
+    <string name="service7">Mamounas Traditional Foof</string>
+    <string name="service8">Doggy Style Burgers</string>
+    <string name="service9">Creperie Magos</string>
+    <string name="service10">Koxili Beach Bar</string>
+    <string name="beach1">Vroulidia</string>
+    <string name="beach2">Maura Volia</string>
+    <string name="beach3">Magemena</string>
+    <string name="beach4">Karfas</string>
+    <string name="beach5">Lithi</string>
+    <string name="beach6">Komi</string>
+    <string name="beach7">Leukathia</string>
+    <string name="beach8">Glaroi</string>
+    <string name="beach9">Elinta</string>
+    <string name="event1">Tour in South Chios</string>
+    <string name="event2">Tour in North Chios</string>
+    <string name="event3">Concert of Traditional Songs</string>
+    <string name="event4">Concert of Parios</string>
+    <string name="event5">Concert of Loomondo</string>
+    <string name="event6">Mastic Festival</string>
+    <string name="hour1">8:00-21:00</string>
+    <string name="hour2">8:00-20:00</string>
+    <string name="hour3">7:00-19:00</string>
+    <string name="hour4">8:00-19:00</string>
+    <string name="hour5">7:00-19:00</string>
+    <string name="hour6">24hours</string>
+    <string name="phone1">2271012345</string>
+    <string name="phone2">2271098762</string>
+    <string name="phone3">2271009051</string>
+    <string name="phone4">2271076210</string>
+    <string name="phone5">2271022996</string>
+    <string name="phone6">2271056438</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
